@@ -2,28 +2,20 @@ Sobre o projeto
 
 Este repositório contém minhas primeiras atividades e exercícios desenvolvidos em Java durante meus estudos de programação.
 
-Objetivos
+Objetivos:
 
-Aprender os fundamentos da linguagem Java.
+-Aprender os fundamentos da linguagem Java.
+-Praticar lógica de programação.
+-Desenvolver a capacidade de resolver problemas usando código.
 
-Praticar lógica de programação.
+Conteúdos estudados:
 
-Desenvolver a capacidade de resolver problemas usando código.
-
-Conteúdos estudados
-
-Variáveis e tipos de dados
-
-Entrada de dados com Scanner
-
-Estruturas condicionais (if e else)
-
-Strings e métodos como length()
-
-Laços de repetição
+-Variáveis e tipos de dados
+-Entrada de dados com Scanner
+-Estruturas condicionais (if e else)
+-Strings e métodos como length()
 
 Tecnologias
 
-Java
-
-Visual Studio Code
+Linguagem: Java
+IDE: Visual Studio Code
